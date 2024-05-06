@@ -1,0 +1,15 @@
+C:\Users\27781\OneDrive\Documents\NWU - Varsity\Year3-Sem1\CMPG315\Project Group 9\TextMessagingApp\TextMessageApp-G9\TextMessageApp-G9\bin\Debug\TextMessageApp-G9.exe.config
+C:\Users\27781\OneDrive\Documents\NWU - Varsity\Year3-Sem1\CMPG315\Project Group 9\TextMessagingApp\TextMessageApp-G9\TextMessageApp-G9\bin\Debug\TextMessageApp-G9.exe
+C:\Users\27781\OneDrive\Documents\NWU - Varsity\Year3-Sem1\CMPG315\Project Group 9\TextMessagingApp\TextMessageApp-G9\TextMessageApp-G9\bin\Debug\TextMessageApp-G9.pdb
+C:\Users\27781\OneDrive\Documents\NWU - Varsity\Year3-Sem1\CMPG315\Project Group 9\TextMessagingApp\TextMessageApp-G9\TextMessageApp-G9\obj\Debug\TextMessageApp-G9.csproj.AssemblyReference.cache
+C:\Users\27781\OneDrive\Documents\NWU - Varsity\Year3-Sem1\CMPG315\Project Group 9\TextMessagingApp\TextMessageApp-G9\TextMessageApp-G9\obj\Debug\TextMessageApp_G9.Form1.resources
+C:\Users\27781\OneDrive\Documents\NWU - Varsity\Year3-Sem1\CMPG315\Project Group 9\TextMessagingApp\TextMessageApp-G9\TextMessageApp-G9\obj\Debug\TextMessageApp_G9.Properties.Resources.resources
+C:\Users\27781\OneDrive\Documents\NWU - Varsity\Year3-Sem1\CMPG315\Project Group 9\TextMessagingApp\TextMessageApp-G9\TextMessageApp-G9\obj\Debug\TextMessageApp-G9.csproj.GenerateResource.cache
+C:\Users\27781\OneDrive\Documents\NWU - Varsity\Year3-Sem1\CMPG315\Project Group 9\TextMessagingApp\TextMessageApp-G9\TextMessageApp-G9\obj\Debug\TextMessageApp-G9.csproj.CoreCompileInputs.cache
+C:\Users\27781\OneDrive\Documents\NWU - Varsity\Year3-Sem1\CMPG315\Project Group 9\TextMessagingApp\TextMessageApp-G9\TextMessageApp-G9\obj\Debug\TextMessageApp-G9.exe
+C:\Users\27781\OneDrive\Documents\NWU - Varsity\Year3-Sem1\CMPG315\Project Group 9\TextMessagingApp\TextMessageApp-G9\TextMessageApp-G9\obj\Debug\TextMessageApp-G9.pdb
+C:\Users\27781\OneDrive\Documents\NWU - Varsity\Year3-Sem1\CMPG315\Project Group 9\TextMessagingApp\TextMessageApp-G9\TextMessageApp-G9\bin\Debug\TextMessageApp-G9.exe.manifest
+C:\Users\27781\OneDrive\Documents\NWU - Varsity\Year3-Sem1\CMPG315\Project Group 9\TextMessagingApp\TextMessageApp-G9\TextMessageApp-G9\bin\Debug\TextMessageApp-G9.application
+C:\Users\27781\OneDrive\Documents\NWU - Varsity\Year3-Sem1\CMPG315\Project Group 9\TextMessagingApp\TextMessageApp-G9\TextMessageApp-G9\obj\Debug\TextMessageApp-G9.TrustInfo.xml
+C:\Users\27781\OneDrive\Documents\NWU - Varsity\Year3-Sem1\CMPG315\Project Group 9\TextMessagingApp\TextMessageApp-G9\TextMessageApp-G9\obj\Debug\TextMessageApp-G9.exe.manifest
+C:\Users\27781\OneDrive\Documents\NWU - Varsity\Year3-Sem1\CMPG315\Project Group 9\TextMessagingApp\TextMessageApp-G9\TextMessageApp-G9\obj\Debug\TextMessageApp-G9.application
